@@ -1,0 +1,4 @@
+# Create a ship with secondary torpedo store running out with ALL firemode
+GT4500,10,0,1,0
+TORPEDO,ALL
+TORPEDO,ALL

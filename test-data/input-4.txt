@@ -1,0 +1,5 @@
+# Create a ship with 2-2 torpedos that always fails to shoot and use ALL firemode
+GT4500,2,1,2,1
+TORPEDO,ALL
+TORPEDO,ALL
+TORPEDO,ALL
