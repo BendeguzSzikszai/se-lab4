@@ -1,0 +1,5 @@
+# Create a ship with incorrect fire succes rate
+GT4500,1,-1,1,-1
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE

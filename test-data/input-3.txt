@@ -1,0 +1,5 @@
+# Create a ship with 2-2 torpedos and use ALL firemode
+GT4500,2,0,2,0
+TORPEDO,ALL
+TORPEDO,ALL
+TORPEDO,ALL
